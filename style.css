@@ -1,0 +1,27 @@
+#one{
+    width: 100px;
+    height: 100px;
+    border: 0;
+    border-radius: 50%;
+    background-color: crimson;
+    font-size: 30px;
+    color: wheat;
+    margin-left: 200px;
+    margin-top: 200px;
+    cursor: pointer;
+}
+#two{
+    width: 70px;
+    height: 30px;
+    background-color: cornflowerblue;
+    color: white;
+    border: 1px solid black;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.temp{
+    font-family: cursive;
+    font-size: 70px;
+    color: rgb(0, 169, 146);
+    text-shadow: 1px 1px 7px black;
+}
